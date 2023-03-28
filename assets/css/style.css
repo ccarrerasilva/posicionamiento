@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+/* p {
+    width: 50%; */
+    /* border: 1px red solid;
+    padding: 10px; */
+    /* display: inline-block; */
+    /* float: left;
+} */
+
+.menu {
+    background-color: aquamarine;
+    display: flow-root;
+}
+
+.menu li {
+    /* display: inline-block; */
+    float: left;
+    margin: 10px;
+}
+
+.iconos {
+    background-color: black;
+    color: aliceblue;
+    padding: 2rem;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.iconos div {
+    width: 30%;
+    display: inline-block;
+    border: 2px red dotted;
+    padding: 1rem;
+    box-sizing: border-box;
+    margin: 0.5rem;
+}
+
+.galeria {
+    text-align: center;
+    margin: 2rem;
+}
+
+.galeria div {
+    width: 28%;
+    display: inline-block;
+    border: 1px gray solid;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+.galeria img {
+    width: 100%;
+}
+
